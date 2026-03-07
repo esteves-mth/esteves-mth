@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Matheus!
+# 👋 Olá, eu sou o Matheus Esteves!
 
 💻 Estudante de Tecnologia | Belo Horizonte - MG  
 🎓 Técnico em Informática em formação no Colégio COTEMIG  
@@ -44,10 +44,10 @@ Sou **dedicado, organizado e comprometido com a evolução contínua na área de
 
 ## 📂 Projetos
 
-### [Java: Do Básico à OOP]((https://github.com/esteves-mth/java-do-basico-ao-oop))
+### [Java: Do Básico ao OOP](https://github.com/esteves-mth/java-do-basico-ao-oop)
 Repositório com exercícios e projetos em **Java**, aplicando Programação Orientada a Objetos, estruturas de dados e integração com MySQL.
 
-### [Tabela Periódica](https://github.com/esteves-mth/tabela-periodica)
+### [Tabela Periódica](https://github.com/esteves-mth/tabelaperiodica)
 Projeto em **HTML e CSS** que organiza e exibe os elementos da tabela periódica com interface simples e interativa.
 
 ---
