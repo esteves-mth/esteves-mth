@@ -44,7 +44,7 @@ Sou **dedicado, organizado e comprometido com a evolução contínua na área de
 
 ## 📂 Projetos
 
-### [Java: Do Básico à OOP](https://github.com/esteves-mth/java-basico-ao-oop)
+### [Java: Do Básico à OOP]((https://github.com/esteves-mth/java-do-basico-ao-oop))
 Repositório com exercícios e projetos em **Java**, aplicando Programação Orientada a Objetos, estruturas de dados e integração com MySQL.
 
 ### [Tabela Periódica](https://github.com/esteves-mth/tabela-periodica)
