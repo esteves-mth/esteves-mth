@@ -68,6 +68,12 @@ Projeto em **HTML e CSS** que organiza e exibe os elementos da tabela periódica
 
 ---
 
+### Minhas contribuições e streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=esteves-mth&theme=tokyonight&hide_border=true)
+
+![Contribuições](https://ghchart.rshah.org/esteves-mth)
+
 ## 🎯 Objetivo
 
 Aprimorar minhas habilidades em **programação Back-end**, desenvolver projetos reais e ganhar experiência prática para estágio na área de tecnologia.
