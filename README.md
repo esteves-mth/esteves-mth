@@ -70,6 +70,8 @@ Projeto em **HTML e CSS** que organiza e exibe os elementos da tabela periódica
 
 ### Minhas contribuições e streak
 
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=esteves-mth&area=true&custom_title=Contribuições+do+Leo)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=esteves-mth&theme=tokyonight&hide_border=true)
 
 ![Contribuições](https://ghchart.rshah.org/esteves-mth)
