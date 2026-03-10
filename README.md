@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Matheus Esteves!
 
-💻 Estudante de Tecnologia | Belo Horizonte - MG  
-🎓 Técnico em Informática em formação no Colégio COTEMIG  
+Estudante de Tecnologia | Belo Horizonte - MG  
+Técnico em Informática em formação no Colégio COTEMIG  
 
 ---
 
@@ -62,8 +62,6 @@ Projeto em **HTML e CSS** que organiza e exibe os elementos da tabela periódica
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esteves-mth&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esteves-mth&layout=compact&theme=tokyonight)
-
-> Assim que novos projetos forem adicionados, os gráficos serão atualizados automaticamente.
 
 ---
 
