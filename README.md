@@ -1,4 +1,5 @@
 # 👋 Olá, eu sou o Matheus Esteves!
+![](https://komarev.com/ghpvc/?username=esteves-mth&color=blue&style=for-the-badge)
 
 Estudante de Tecnologia | Belo Horizonte - MG  
 Técnico em Informática em formação no Colégio COTEMIG  
@@ -9,7 +10,7 @@ Técnico em Informática em formação no Colégio COTEMIG
 
 Sou estudante do **2º ano do curso Técnico em Informática**, em busca de oportunidades de estágio com foco em **Back-end**.  
 
-Tenho **prática sólida em Java**, do básico à Programação Orientada a Objetos, aplicando conceitos como **encapsulamento, herança, polimorfismo, composição e organização em pacotes**. Desenvolvo projetos que simulam sistemas reais, como e-commerce, biblioteca e gestão de notas, integrando banco de dados local via **MySQL (JDBC)** e implementando operações CRUD e persistência de dados.  
+Tenho **base sólida em Java**, do básico à Programação Orientada a Objetos, aplicando conceitos como **encapsulamento, herança, polimorfismo, composição e organização em pacotes**. Desenvolvo projetos que simulam sistemas reais, como e-commerce, biblioteca e gestão de notas, integrando banco de dados local via **MySQL (JDBC)** e implementando operações CRUD e persistência de dados.  
 
 Também possuo experiência com **HTML e CSS** para construção de interfaces simples e estudo **C# com foco em lógica de programação e algoritmos**.
 
@@ -67,7 +68,7 @@ Projeto em **HTML e CSS** que organiza e exibe os elementos da tabela periódica
 
 ### Minhas contribuições e streak
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=esteves-mth&area=true&custom)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=esteves-mth&theme=tokyo-night&area=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=esteves-mth&theme=tokyonight&hide_border=true)
 
