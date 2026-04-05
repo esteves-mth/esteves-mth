@@ -61,13 +61,6 @@ Projeto em **HTML e CSS** que organiza e exibe os elementos da tabela periódica
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esteves-mth&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esteves-mth&layout=compact&theme=tokyonight)
-
----
-
 ### Minhas contribuições e streak
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=esteves-mth&theme=tokyo-night&area=true)
