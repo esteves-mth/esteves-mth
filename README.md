@@ -14,50 +14,57 @@ Tenho **base sólida em Java**, do básico à Programação Orientada a Objetos,
 
 Também possuo experiência com **HTML e CSS** para construção de interfaces simples e estudo **C# com foco em lógica de programação e algoritmos**.
 
-Sou **dedicado, organizado e comprometido com a evolução contínua na área de tecnologia**.
+Sou **dedicado, organized e comprometido com a evolução contínua na área de tecnologia**.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Linguagens
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
+</div>
 
 ### Desenvolvimento Web
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+</div>
 
 ### Banco de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+</div>
 
 ### Ferramentas
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40" alt="Visual Studio logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
+</div>
 
 ---
 
 ## 📂 Projetos
 
-### [Java: Do Básico ao OOP](https://github.com/esteves-mth/java-do-basico-ao-oop)
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="20" align="center" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="20" align="center" /> [Estoque CRUD Java](https://github.com)
+Sistema simples de gerenciamento de estoque em **Java** com CRUD completo via **JDBC**, permitindo persistência de dados local no **MySQL**.
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="20" align="center" /> [Java: Do Básico ao OOP](https://github.com/esteves-mth/java-do-basico-ao-oop)
 Repositório com exercícios e projetos em **Java**, aplicando Programação Orientada a Objetos, estruturas de dados e integração com MySQL.
 
-### [Tabela Periódica](https://github.com/esteves-mth/tabelaperiodica)
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="20" align="center" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="20" align="center" /> [Tabela Periódica](https://github.com/esteves-mth/tabelaperiodica)
 Projeto em **HTML e CSS** que organiza e exibe os elementos da tabela periódica com interface simples e interativa.
 
 ---
 
 ## 📚 Certificações
 
-- Google Workspace for Education – Nível Básico  
-- Google Workspace for Education – Nível Intermediário  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" height="18" align="center" /> Google Workspace for Education – Nível Básico  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" height="18" align="center" /> Google Workspace for Education – Nível Intermediário  
 
 ---
 
