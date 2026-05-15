@@ -54,7 +54,7 @@ Sou **dedicado, organized e comprometido com a evolução contínua na área de 
 Sistema simples de gerenciamento de estoque em **Java** com CRUD completo via **JDBC**, permitindo persistência de dados local no **MySQL**.
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="20" align="center" /> [Java: Do Básico ao OOP](https://github.com/esteves-mth/java-do-basico-ao-oop)
-Repositório com exercícios e projetos em **Java**, aplicando Programação Orientada a Objetos, estruturas de dados e integração com MySQL.
+Repositório com exercícios e projetos em **Java**, aplicando Programação Orientada a Objetos, estruturas de dados.
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="20" align="center" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="20" align="center" /> [Tabela Periódica](https://github.com/esteves-mth/tabelaperiodica)
 Projeto em **HTML e CSS** que organiza e exibe os elementos da tabela periódica com interface simples e interativa.
