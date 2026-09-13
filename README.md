@@ -50,7 +50,7 @@ Sou **dedicado, organized e comprometido com a evolução contínua na área de 
 
 ## 📂 Projetos
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="20" align="center" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="20" align="center" /> [Estoque CRUD Java](https://github.com)
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="20" align="center" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="20" align="center" /> [Estoque CRUD Java](https://github.com/esteves-mth/estoque-crud-java)
 Sistema simples de gerenciamento de estoque em **Java** com CRUD completo via **JDBC**, permitindo persistência de dados local no **MySQL**.
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="20" align="center" /> [Java: Do Básico ao OOP](https://github.com/esteves-mth/java-do-basico-ao-oop)
