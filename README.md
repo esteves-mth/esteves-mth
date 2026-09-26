@@ -1,88 +1,47 @@
-# 👋 Olá, eu sou o Matheus Esteves!
-![](https://komarev.com/ghpvc/?username=esteves-mth&color=blue&style=for-the-badge)
 
-Estudante de Tecnologia | Belo Horizonte - MG  
-Técnico em Informática em formação no Colégio COTEMIG  
 
----
+# // Matheus Esteves
 
-## 👨‍💻 Sobre mim
+**`Java Developer`**
 
-Sou estudante do **2º ano do curso Técnico em Informática**, em busca de oportunidades de estágio com foco em **Back-end**.  
-
-Tenho **base sólida em Java**, do básico à Programação Orientada a Objetos, aplicando conceitos como **encapsulamento, herança, polimorfismo, composição e organização em pacotes**. Desenvolvo projetos que simulam sistemas reais, como e-commerce, biblioteca e gestão de notas, integrando banco de dados local via **MySQL (JDBC)** e implementando operações CRUD e persistência de dados.  
-
-Também possuo experiência com **HTML e CSS** para construção de interfaces simples e estudo **C# com foco em lógica de programação e algoritmos**.
-
-Sou **dedicado, organized e comprometido com a evolução contínua na área de tecnologia**.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-### Linguagens
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
+<div align="center">
+  <img src="https://i.pinimg.com/originals/55/e8/af/55e8af23ff4e1055efd3605624dceb66.gif" width=100% />
 </div>
 
-### Desenvolvimento Web
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+<br>
+
+> Oi, meu nome é Matheus Esteves, sou estudante do curso Técnico em Informática no COTEMIG, com foco em desenvolvimento backend com Java.
+Venho desenvolvendo projetos práticos utilizando Java, Programação Orientada a Objetos, JDBC, MySQL e Git/GitHub, buscando transformar meus estudos em aplicações e evoluir continuamente como desenvolvedor.
+Atualmente, estou construindo minha base em desenvolvimento de software e me preparando para minha primeira oportunidade de estágio na área de tecnologia.
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-esteves-05270835b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:matheus.estevesdearaujo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  
 </div>
 
-### Banco de Dados
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-</div>
 
-### Ferramentas
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40" alt="Visual Studio logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
-</div>
-
----
-
-## 📂 Projetos
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="20" align="center" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="20" align="center" /> [Estoque CRUD Java](https://github.com/esteves-mth/estoque-crud-java)
-Sistema simples de gerenciamento de estoque em **Java** com CRUD completo via **JDBC**, permitindo persistência de dados local no **MySQL**.
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="20" align="center" /> [Java: Do Básico ao OOP](https://github.com/esteves-mth/java-do-basico-ao-oop)
-Repositório com exercícios e projetos em **Java**, aplicando Programação Orientada a Objetos, estruturas de dados.
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="20" align="center" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="20" align="center" /> [Tabela Periódica](https://github.com/esteves-mth/tabelaperiodica)
-Projeto em **HTML e CSS** que organiza e exibe os elementos da tabela periódica com interface simples e interativa.
-
----
-
-## 📚 Certificações
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" height="18" align="center" /> Google Workspace for Education – Nível Básico  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" height="18" align="center" /> Google Workspace for Education – Nível Intermediário  
-
----
-
-### Minhas contribuições e streak
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=esteves-mth&theme=tokyo-night&area=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=esteves-mth&theme=tokyonight&hide_border=true)
-
-![Contribuições](https://ghchart.rshah.org/esteves-mth)
-
-## 🎯 Objetivo
-
-Aprimorar minhas habilidades em **programação Back-end**, desenvolver projetos reais e ganhar experiência prática para estágio na área de tecnologia.
-
----
-
-## 📫 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-esteves-05270835b/)  
-- 📧 Email: matheus.estevesdearaujo@gmail.com
+<p align="center">
+  <img src="https://raw.githubusercontent.com/esteves-mth/esteves-mth/output/snake.svg" alt="Snake animation">
+</p>
